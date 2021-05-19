@@ -1,5 +1,9 @@
 #!/usr/pkg/bin/python3.9
 
+#
+# Time-stamp: <2021/05/19 09:12:42 (CST) daisuke>
+#
+
 # importing argparse module
 import argparse
 
@@ -45,6 +49,7 @@ mean, median, stddev \
     = astropy.stats.sigma_clipped_stats (data, sigma=threshold, \
                                          maxiters=maxiters, cenfunc='median')
 
+# calculation of mode using empirical formula
 mode = 3 * median - 2 * mean
 
 print ("mean                         = %10.3f ADU" % mean)

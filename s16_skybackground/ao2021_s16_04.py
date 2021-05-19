@@ -1,5 +1,9 @@
 #!/usr/pkg/bin/python3.9
 
+#
+# Time-stamp: <2021/05/19 09:12:13 (CST) daisuke>
+#
+
 # importing argparse module
 import argparse
 
