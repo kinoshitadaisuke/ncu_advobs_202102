@@ -1,0 +1,18 @@
+Requirements for this course:
+
+- Hardware
+  * a computer
+    either laptop computer, small desktop computer, or single-board
+    computer is fine.
+
+- Software
+  * Operating System: Unix-like system is recommended (*BSD, Linux, etc.)
+  * Python 3
+  * NumPy
+  * SciPy
+  * Matplotlib
+  * Astropy
+  * Ginga
+  * photutils
+  * imexam
+  * astroquery
