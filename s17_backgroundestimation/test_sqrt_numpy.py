@@ -8,4 +8,4 @@ print ("a = %f" % a)
 
 b = numpy.sqrt (a)
 
-print ("b = math.sqrt (a) = %f" % b)
+print ("b = numpy.sqrt (a) = %f" % b)
