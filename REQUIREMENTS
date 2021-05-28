@@ -16,3 +16,5 @@ Requirements for this course:
   * photutils
   * imexam
   * astroquery
+  * scikit-image
+  * astroalign
