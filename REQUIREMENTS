@@ -18,3 +18,10 @@ Requirements for this course:
   * astroquery
   * scikit-image
   * astroalign
+
+- English reading
+  * official documents on Python official website
+  * official documents of Python packages (e.g. Numpy, SciPy, Astropy)
+  * scientific paper about astronomical image processing, CCD data reduction, photometry, etc.
+  * documents about FITS standards
+  * textbook about Unix (or BSD or Linux)
